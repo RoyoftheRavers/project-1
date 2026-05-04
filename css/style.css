@@ -477,3 +477,34 @@ footer {
   }
 
 }
+
+/* ================================
+   FORM VALIDATION
+================================ */
+.input-error {
+  border-color: #cc3300 !important;
+}
+
+.error-message {
+  font-size: 13px;
+  color: #cc3300;
+  margin: 6px 0 0;
+}
+
+.form-success {
+  background-color: #E1F5EE;
+  border: 1px solid #1D9E75;
+  border-radius: 8px;
+  padding: 32px;
+  text-align: center;
+}
+
+.form-success h3 {
+  color: #0F6E56;
+  margin-bottom: 8px;
+}
+
+.form-success p {
+  color: #1D9E75;
+  margin: 0;
+}
